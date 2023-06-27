@@ -1,0 +1,70 @@
+#+title: =ISACA Talks 2023 - 2º Edição=
+#+AUTHOR: Matheus Almeida
+
+* Gerenciamento de Riscos tratada como uma decisão de negócio
+
+** As principais preocupações do conselho de administração
+
+- Recessão potencial - 48%
+- Incerteza econimica a longo prazo - 48%
+- Pressões inflacionarias de longo prazo - 42%
+
+** Como sermos relevantes para o mundo?
+
+***  Giroscópio -> equilibrio
+- investiomentos com responsabilidade
+- Cybersec resiliente
+- Trabalho revolucionario
+
+=87% das organizações sabem que sofreram um incidente=
+=65% sofreram com vazamentos de dados ou sistemas paralisados=
+
+** CISO 
+
+- Grenciamento de riscos 
+- Desenvolver programas de cybersegurança
+- Passar valor para a empresa
+  
+=40% dos conselhos de administração terá um comite de cybersegurança até 2024=
+
+** Com quem compartilhar riscos
+
+Incidentes de segurança podem imactar negativamente devirsos aspectos das empresas. As medidas de reposta a um incidente são decisões de negócio.
+
+- Fatores Geo-politicos podem impactar sua infraestrutura de cibernética
+- Aliciamento de funcionários
+- Ataques mais sofisticados e cuidadosamente planejados
+- Novos pontos de falha são explorados cada vez mais rápido
+- O impacto a imagem da empresa pode ser maior do que a repercussão da midia
+- Os impactos ao seu negócio podem acontecer fora da sua atuação direta.
+
+Toddas as empresas precisam entender seu nével de tolerancia aos riscos e implementar seu programa de cybersec
+É preciso acompanhar continualmente o ccenério de cyber para se preparar para responder rapidamente a incidentes.
+
+=64% dos conselhos de administração esperam aumentar o apetite por risco em 2023-2024=
+
+Simulações devem ser executadas regularmente e devem incluri a liderança e os tomadores de decisão executivos de toda a organização.
+
+=O papel do líder de riscos e cibersegurança precisa ser reformulado=
+
+CISO é um lider que =facilita= a gestão de riscos
+
+** Como lidar com a jornada digital?
+
+Consultoria x fazer vc mesmo
+
+Em média 70% das iniciativas utilizam essas duas opções falha por falta de propriedade, informação e referencias.
+
+- Obtenha uma visão de primira linha da maturidade de seus controles.
+- Priorize controles para investimentos adicionais
+
+=Investimento em cyber está quebrado e precisamos ir além do pensamento atual.=
+=Pare de se preocupar com custo e começar a pensar no que vale a segurança=
+
+* Transformação digital
+
+=Inovação não é igual a Evolução=
+
+- Teoria do fluxo
+
+Nova cultura = consiencia digital
